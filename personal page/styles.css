@@ -1,0 +1,56 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #8c62b3;
+}
+
+#hobby {
+  background-color: #8c62b3;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  max-width: 980px;
+  margin-top: 4rem;
+  flex-wrap: wrap;
+}
+
+.card-img-top {
+  width: 350px;
+  height: 200px;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.email-link {
+  margin-top: 50px;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: none;
+}
